@@ -10,11 +10,17 @@ Create a shared spacial mapped experience for 3+ users utilizing universal cross
 
 Hack Team: 
 
-Sean Ong - Initial project setup, connect players, show avatars
+Sean Ong - connect players, show avatars
 
-Simon - XRTK Expert and implementation
+Simon Jackson - XRTK Expert
+
+Charles Poole - Spacial mesh sharing
+
+Stefan Wasserbauer - Photon Networking
 
 James King - Documentation and Tutorial
+
+Gareth James - Magic Leap implementation
 
 ### current build:
 
@@ -26,12 +32,12 @@ HoloLens 1
 
 HoloLens 2
 
+Magic Leap
 
 ### planned:
 
 ArFoundation: ARKit & ARCore
 
 Oculus Quest
-
 
 Once MRTK toolset is debugged we will add that to our build for better HoloLens Implementation
