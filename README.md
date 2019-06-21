@@ -23,8 +23,11 @@ James King - Documentation and Tutorial
 Gareth James - Magic Leap implementation
 
 ### current build:
+https://we.tl/t-ATSQH55db3
 
+old builds:
 https://we.tl/t-541pjZ2Jxc
+
 
 XRTK:
 
@@ -32,9 +35,17 @@ HoloLens 1
 
 HoloLens 2
 
-Magic Leap
+
 
 ### planned:
+
+Magic Leap
+
+Oculus Go
+
+Oculus Quest
+
+Windows MRD
 
 ArFoundation: ARKit & ARCore
 
