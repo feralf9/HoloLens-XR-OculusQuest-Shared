@@ -10,19 +10,24 @@ Create a shared spacial mapped experience for 3+ users utilizing universal cross
 
 Hack Team: 
 
-Sean Ong - connect players, show avatars
+Sean Ong - Floor Plan Alignment for HL, Spacial Alignment, 
 
-Simon Jackson - XRTK Expert
+Simon Jackson - XRTK Expert, Oculus Quest Implementation
 
 Charles Poole - Spacial mesh sharing
 
-Stefan Wasserbauer - Photon Networking
+Stefan Wasserbauer - Photon Networking, show avatars, show object
 
-James King - Documentation and Tutorial
+James King - Documentation and Tutorial, Brush (pick up, drip with sprites)
 
 Gareth James - Magic Leap implementation
 
+Navdeep Rajwanshi - VR video blogging
+
+
+
 ### current build:
+
 https://we.tl/t-ATSQH55db3
 
 old builds:
@@ -35,6 +40,8 @@ HoloLens 1
 
 HoloLens 2
 
+Windows Mixed Reality Device
+
 
 
 ### planned:
@@ -44,8 +51,6 @@ Magic Leap
 Oculus Go
 
 Oculus Quest
-
-Windows MRD
 
 ArFoundation: ARKit & ARCore
 
